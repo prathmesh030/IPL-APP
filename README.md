@@ -2,7 +2,7 @@
 
 <h1>**** DEMO ****</h1>
 
-<div style="text-align:center"><img src="assets/images/ipl-app.gif" /></div>
+<div style="align-content: center"><img src="assets/images/ipl-app.gif" /></div>
 
 <h3>DESCRIPTION OF APP:</h3>
 IPL 2021 IS MOBILE APPLICATION DEVELOPED USING FLUTTER.<br/>
