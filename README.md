@@ -1,8 +1,8 @@
 # ipl_app
-
+<body>
 <h1>**** DEMO ****</h1>
 
-<div style="align-content: center"><img src="assets/images/ipl-app.gif" /></div>
+<div style="text-align:center;background-color:white;"><img src="assets/images/ipl-app.gif" /></div>
 
 <h3>DESCRIPTION OF APP:</h3>
 IPL 2021 IS MOBILE APPLICATION DEVELOPED USING FLUTTER.<br/>
@@ -14,3 +14,4 @@ IT IS BASIC APP WHERE YOU CAN VIEW PLAYERS OF IPL TEAMS AND ALSO CREATE YOUR OWN
 <li>FILTER PLAYERS BY THEIR ROLE LIKE BOWLER, ALL-ROUNDER ETC.</li>
 <li>CREATE YOUR OWN TEAM.</li>
 </ol>
+</body>
